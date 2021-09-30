@@ -1,0 +1,18 @@
+#buscar{
+    width: 1000px;
+}
+.img2{
+    border-top-left-radius: 7%;
+    border-top-right-radius: 7%;
+    border-end-end-radius: 7%;
+    border-end-start-radius: 7%;
+    padding: 8px;
+}
+.img1{
+    border-top-left-radius: 7%;
+    border-top-right-radius: 7%;
+    border-end-end-radius: 7%;
+    border-end-start-radius: 7%;
+    padding: 8px;
+}
+
